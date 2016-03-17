@@ -1,0 +1,28 @@
+﻿# Código compilado
+*.class
+target/**
+*/target/**
+target-eclipse/**
+
+# Empaquetados
+*.7z
+*.dmg
+*.gz
+*.iso
+#*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs
+*.log
+
+# Archivos de Eclipse, IntelliJ IDEA y Netbeans
+.classpath
+.project
+.settings
+*.iml
+*.ipr
+*.iws
+.idea
+glassfish-web.xml
