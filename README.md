@@ -1,4 +1,4 @@
-# JMS Sender with Spring
+# JMS Listener with Spring
 
 ## Synopsis
 
